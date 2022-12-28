@@ -31,7 +31,6 @@ public class My_Unit_Info {
         System.out.println("[방어력] : " +unitShieldValue);
         System.out.println("[체력] : " +unitHealthValue);
     }
-    public static void myAttack() {
-        int unit1AttackValue;
-    }
 }
+// 생성자로 더 간단하게 만들고 컨트롤 해야되는건지
+// 아님 스캐너로 값 입력을 개발자가 아닌 사용자가 하니까 이렇게 냅두는게 맞는건지 모르겠네
